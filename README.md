@@ -207,15 +207,16 @@ CASO CONTRÁRIO                   →  🟢 OPERAÇÃO NORMAL
 
 ---
 
-## 👤 Autors
+## 👤 Authors
 
-**Carlos Eugênio Rodrigues de Andrade Filho**
-RM: 570285
-📧carloseugenioprofissional@gmail.com
+**Carlos Eugênio Rodrigues de Andrade Filho**  
+RM: 570285  
+📧 [carloseugenioprofissional@gmail.com](mailto:carloseugenioprofissional@gmail.com)
 
-**Matheus Fuchelberguer Neves**
-RM: 571321
-📧fuchelberguer28@gmail.com
+**Matheus Fuchelberguer Neves**  
+RM: 571321  
+📧 [fuchelberguer28@gmail.com](mailto:fuchelberguer28@gmail.com)
+
 ---
 
 <div align="center">
