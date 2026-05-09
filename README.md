@@ -57,7 +57,7 @@ colonia_aurora/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/colonia-aurora-siger.git
+git clone https://github.com/carloseugenioandrade/colonia-aurora-siger.git
 
 # Entre na pasta
 cd colonia-aurora-siger
@@ -209,13 +209,13 @@ CASO CONTRÁRIO                   →  🟢 OPERAÇÃO NORMAL
 
 ## 👤 Autors
 
-**Carlos Eugênio Rodrigues de Andrade Filho**  
-RM: 570285  
-📧 carloseugenioprofissional@gmail.com
+**Carlos Eugênio Rodrigues de Andrade Filho**
+RM: 570285
+📧carloseugenioprofissional@gmail.com
 
-**Matheus Fuchelberguer Neves**  
-RM: rm571321  
-📧 fuchelberguer28@gmail.com
+**Matheus Fuchelberguer Neves**
+RM: 571321
+📧fuchelberguer28@gmail.com
 ---
 
 <div align="center">
